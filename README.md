@@ -6,5 +6,5 @@
  
 <ul>
  <li><a href="https://docs.google.com/document/d/1ojAfx5yh-GbInsXreM2nrS6yWfs5gBXWJekip75m7bs/edit?usp=sharing"> State of the art </a></li>
- <li><a href="https://docs.google.com/document/d/1ojAfx5yh-GbInsXreM2nrS6yWfs5gBXWJekip75m7bs/edit?usp=sharing">W6</a></li>
+ <li><a href="https://docs.google.com/document/d/14run0Qe0OaHej2iu9yzuaThFt_z7HCx-zThWSpvnQrI/edit?usp=sharing">W6</a></li>
 </ul>
